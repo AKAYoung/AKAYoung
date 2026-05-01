@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @AKAYoung
-- 👀 I’m interested in vue
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me luck
+# Peisheng Yang
 
-<!---
-AKAYoung/AKAYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Master's student in Software Engineering, focusing on **Non-Intrusive Load Monitoring (NILM)**, **Smart Grid**, **Energy Internet**, and **time-series deep learning**.
+
+My current research explores how synthetic data generation, cross-domain adaptation, and efficient Transformer architectures can improve appliance-level load perception under data-scarce and resource-constrained scenarios.
+
+---
+
+## 🔬 Research Interests
+
+- Non-Intrusive Load Monitoring (NILM)
+- Smart Grid and Energy Internet
+- Time-Series Representation Learning
+- Synthetic Load Data Generation
+- Transformer and Diffusion Models
+- Parameter-Efficient Fine-Tuning for Edge-Oriented NILM
