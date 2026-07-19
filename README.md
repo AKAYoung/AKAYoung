@@ -82,7 +82,8 @@ A practical load perception project for heterogeneous scenarios such as convenie
 
 ## Research Manuscript
 
-* **SynerBETA-NILM: An Edge--Cloud Collaborative Framework for Transferable NILM in Smart Homes**
+* **SynerBETA-NILM: An Edge--Cloud Collaborative Framework for Transferable NILM in Smart Homes
+Submitted to the IEEE Internet of Things Journal.**
 
 ---
 
@@ -99,4 +100,5 @@ A practical load perception project for heterogeneous scenarios such as convenie
 
 * **Name:** Peisheng Yang
 * **GitHub:** [@AKAYoung](https://github.com/AKAYoung)
+* **E-mail:** 17838623617@163.com
 * **Research Direction:** NILM, Energy Internet, Smart Grids, Time-Series Deep Learning
