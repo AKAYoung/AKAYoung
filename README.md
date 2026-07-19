@@ -1,100 +1,102 @@
 # Peisheng Yang
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Master's+Student+in+Software+Engineering;Research+Interests%3A+NILM+%7C+Smart+Grid+%7C+Energy+Internet;Time-Series+Deep+Learning+%7C+Transformer+%7C+Diffusion+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=NILM+%7C+Energy+Internet+%7C+Time-Series+Deep+Learning;Synthetic+Data+Generation+%7C+Transferable+NILM;Edge-Cloud+Collaboration+%7C+Parameter-Efficient+Adaptation" alt="Typing SVG" />
 </p>
 
-I am a Master's student in Software Engineering, focusing on **Non-Intrusive Load Monitoring (NILM)**, **Smart Grid**, **Energy Internet**, and **time-series deep learning**.
+I am a Master's student in Software Engineering at Henan University, focusing on Non-Intrusive Load Monitoring (NILM), Energy Internet, smart grids, and time-series deep learning.
 
-My current research explores how synthetic data generation, cross-domain adaptation, and efficient Transformer architectures can improve appliance-level load perception under data-scarce and resource-constrained scenarios.
-
----
-
-## 🔬 Research Interests
-
-- Non-Intrusive Load Monitoring (NILM)
-- Smart Grid and Energy Internet
-- Time-Series Representation Learning
-- Synthetic Load Data Generation
-- Transformer and Diffusion Models
-- Parameter-Efficient Fine-Tuning for Edge-Oriented NILM
+My current research investigates synthetic load data generation, transferable load disaggregation, parameter-efficient adaptation, and edge-cloud collaboration for appliance-level energy monitoring under data-scarce, cross-domain, and resource-constrained scenarios.
 
 ---
 
-## 🛠️ Technical Skills
+## Research Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformer-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Diffusion%20Models-6F42C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/NILM-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Smart%20Grid-228B22?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time--Series%20Modeling-FF8C00?style=flat-square" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+* Non-Intrusive Load Monitoring (NILM)
+* Energy Internet and Smart Grids
+* Time-Series Representation Learning
+* Synthetic Load Data Generation
+* Transformer and Diffusion Models
+* Transferable NILM and Domain Adaptation
+* Parameter-Efficient Fine-Tuning for Edge Deployment
+
+---
+
+## Technical Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" />
 </p>
 
-- **Programming:** Python, SQL, Markdown, LaTeX
-- **Deep Learning:** PyTorch, CNN, RNN/LSTM/GRU, Transformer, Diffusion Models
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Research Tools:** Git, GitHub, Overleaf, Anaconda, PyCharm
-- **Application Areas:** NILM, Smart Grid, Energy Internet, Time-Series Modeling
+* **Programming:** Python, SQL, Markdown, LaTeX
+* **Deep Learning:** PyTorch, CNN, RNN/LSTM/GRU, Transformer, Diffusion Models
+* **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Research Tools:** Git, GitHub, Overleaf, Anaconda, PyCharm
+* **Application Areas:** NILM, Energy Internet, Smart Grids, Time-Series Modeling
 
 ---
 
-## 🚀 Featured Research Projects
+## Featured Research Projects
 
-### SynerBETA-NILM
+### [SynerBETA-NILM](https://github.com/AKAYoung/SynerBETA-NILM)
 
-SynerBETA-NILM is a two-stage framework for non-intrusive load monitoring. It combines synthetic appliance-level load generation with parameter-efficient cross-domain load disaggregation.
+**SynerBETA-NILM: An Edge--Cloud Collaborative Framework for Transferable NILM in Smart Homes**
 
-**Keywords:** NILM, Smart Grid, Energy Internet, Time-Series Modeling, Diffusion Model, Transformer, PEFT
+SynerBETA-NILM is an edge-cloud collaborative framework for transferable non-intrusive load monitoring. It integrates cloud-side synthetic load data generation with edge-side parameter-efficient adaptation to address appliance data scarcity, cross-household distribution shifts, and resource-constrained deployment.
 
----
-
-### SynerDiff: Synthetic Load Data Generation
-
-SynerDiff is a data augmentation model designed for appliance-level power signals. It combines an autoregressive Transformer with diffusion modeling to capture both steady-state trends and transient load variations.
-
-**Keywords:** NILM, Time-Series Generation, Diffusion Model, Transformer, Data Augmentation
+**Keywords:** NILM, Smart Homes, Energy Internet, Edge-Cloud Collaboration, Transfer Learning, Transformer, Diffusion Model, PEFT
 
 ---
 
-### BETA-NILM: Efficient Cross-Domain Load Disaggregation
+### [SynerDiff](https://github.com/AKAYoung/SynerDiff): Synthetic Load Data Generation
 
-BETA-NILM is a Transformer-based load disaggregation model that integrates adapter-based parameter-efficient fine-tuning and efficient attention for cross-domain NILM.
+SynerDiff combines autoregressive Transformer modeling with conditional diffusion to generate high-fidelity appliance power sequences and support behavior-aware synthetic dataset construction.
 
-**Keywords:** NILM, Adapter, PEFT, Efficient Attention, Domain Adaptation
+**Keywords:** NILM, Time-Series Generation, Conditional Diffusion, Transformer, Data Augmentation
+
+---
+
+### [BETA-NILM](https://github.com/AKAYoung/BETA-NILM): Transferable Load Disaggregation
+
+BETA-NILM is a Transformer-based load disaggregation model that integrates efficient attention and adapter-based parameter-efficient fine-tuning for lightweight adaptation to unseen household environments.
+
+**Keywords:** NILM, Adapter, PEFT, Efficient Attention, Transfer Learning, Edge Deployment
 
 ---
 
 ### Multi-Scenario Power Load Perception System
 
-A practical power load perception project for heterogeneous scenarios such as convenience stores, filling stations, and gyms. I participated in data governance, sample library construction, feature design, and model training.
+A practical load perception project for heterogeneous scenarios such as convenience stores, filling stations, and gyms. My work covered multi-source power data governance, sample construction, feature analysis, and model training.
 
 **Keywords:** Power Data Processing, Load Perception, Data Governance, Energy Management
 
 ---
 
-## 📄 Publications & Manuscripts
+## Research Manuscript
 
-- **SynerBETA-NILM**: A two-stage framework for synthetic load data generation and parameter-efficient cross-domain non-intrusive load monitoring.  
-  *Manuscript in preparation / under submission.*
+* **SynerBETA-NILM: An Edge--Cloud Collaborative Framework for Transferable NILM in Smart Homes**
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKAYoung&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKAYoung&layout=compact&theme=default&hide_border=true" height="160" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AKAYoung&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKAYoung&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **Name:** Peisheng Yang
-- **GitHub:** [@AKAYoung](https://github.com/AKAYoung)
-- **Research Direction:** NILM, Smart Grid, Energy Internet, Time-Series Modeling
+* **Name:** Peisheng Yang
+* **GitHub:** [@AKAYoung](https://github.com/AKAYoung)
+* **Research Direction:** NILM, Energy Internet, Smart Grids, Time-Series Deep Learning
